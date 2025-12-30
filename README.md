@@ -5,6 +5,8 @@
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](https://pypi.org/project/sulvion-picord/0.1.0/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=fff)](#)
 
+> [[Click here to see the PyPi page](https://pypi.org/project/sulvion-picord/0.1.0/)]
+
 **SulvionPiCord (SPC)** is a simple and powerful Python wrapper for `discord.py`. It is designed to minimize boilerplates and make Discord bot development more intuitive, especially for beginners and rapid prototyping.
 
 ## ✨ Features
@@ -17,13 +19,8 @@
 - **Premium Error Handling**: Automated, user-friendly error messages that stay out of your terminal.
 
 ## 🚀 Installation
-
-Currently, SPC is in early development. To use it in your project, copy the `spc/` folder into your project directory.
-
-Ensure you have the requirements:
-```bash
-pip install discord.py typing-extensions
-```
+- Easy, just type `pip install sulvion-picord`
+- And import it using `from spc import *`
 
 ## 🛠️ Quick Start
 
@@ -67,7 +64,7 @@ A powerful unified object passed to your commands. It gives you easy access to:
 - `ctx.db`: Direct access to the integrated database.
 
 ### 🗄️ Database
-A built-in SQLite wrapper available via `bot.db` or `ctx.db`.
+A built-in SQLite wrapper.
 ```python
 # Create a table
 ctx.db.create_table("users", {"id": "INTEGER PRIMARY KEY", "score": "INTEGER"})
@@ -96,7 +93,7 @@ ctx.db.upsert("users", {"id": ctx.sender.id, "score": 100})
 - `ctx.rand(min: int, max: int)`: Returns a random integer between min and max.
 - `ctx.sender`: A `Sender` object containing `id`, `name`, `mention`, and `avatar_url`.
 
-### **Database (ctx.db / bot.db)**
+### **Database**
 - `db.get(query, params=(), one=False)`: Fetch data from the database.
 - `db.execute(query, params=())`: Execute a raw SQL query.
 - `db.create_table(name, schema)`: Create a table using a dictionary `{col: type}` or raw string.
@@ -112,5 +109,6 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 **Hafiz Daffa W.**
 - GitHub: [@HafizDaffa01](https://github.com/HafizDaffa01)
+
 
 
