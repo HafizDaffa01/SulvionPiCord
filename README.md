@@ -1,3 +1,5 @@
+![Image](https://github.com/HafizDaffa01/SulvionPiCord/blob/main/spc.png?raw=true)
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
@@ -109,6 +111,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 **Hafiz Daffa W.**
 - GitHub: [@HafizDaffa01](https://github.com/HafizDaffa01)
+
 
 
 
