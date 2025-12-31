@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](https://pypi.org/project/sulvion-picord/0.1.0/)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](https://pypi.org/project/sulvion-picord/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=fff)](#)
 
 > [[Click here to see the PyPi page](https://pypi.org/project/sulvion-picord/0.1.0/)]
@@ -111,6 +111,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 **Hafiz Daffa W.**
 - GitHub: [@HafizDaffa01](https://github.com/HafizDaffa01)
+
 
 
 
