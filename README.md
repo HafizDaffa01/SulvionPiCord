@@ -7,7 +7,7 @@
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](https://pypi.org/project/sulvion-picord/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=fff)](#)
 
-> [[Click here to see the PyPi page](https://pypi.org/project/sulvion-picord/0.1.0/)]
+> https://pypi.org/project/sulvion-picord/
 
 **SulvionPiCord (SPC)** is a simple and powerful Python wrapper for `discord.py`. It is designed to minimize boilerplates and make Discord bot development more intuitive, especially for beginners and rapid prototyping.
 
@@ -111,6 +111,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 **Hafiz Daffa W.**
 - GitHub: [@HafizDaffa01](https://github.com/HafizDaffa01)
+
 
 
 
